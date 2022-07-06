@@ -8,6 +8,7 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   height: 85%;
+  margin-bottom: 80px;
 }
 .banner-part {
   text-align: center;
@@ -28,3 +29,55 @@ html {
   color: #fff;
   border-radius: 5px;
 }
+/*End top banner part*/
+.donate-today-toppart {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+.donate-today-middlepart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.donate-amount {
+  background-color: #ddd;
+  width: 50px;
+  height: 50px;
+  padding: 30px 30px 15px 15px;
+  margin-left: 8px;
+  margin-right: 8px;
+  font-weight: bold;
+  font-size: 25px;
+  border-radius: 5px;
+}
+#donate-amount-two {
+  background-color: #ffe6e8;
+  width: 50px;
+  height: 50px;
+  padding: 30px 30px 15px 15px;
+  margin-left: 8px;
+  margin-right: 8px;
+  border: 2px solid tomato;
+  border-radius: 5px;
+  color: tomato;
+  font-weight: bold;
+  font-size: 25px;
+}
+.donate-tody-bootompart {
+  text-align: center;
+}
+.donate-tody-bootompart input {
+  width: 62%;
+  margin-top: 50px;
+  text-align: center;
+  border: none;
+  border-bottom: 1px solid silver;
+  outline: none;
+  background-color: transparent;
+  padding-bottom: 8px;
+  margin-bottom: 30px;
+}
+
+/*End donate today section*/
