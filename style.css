@@ -1,0 +1,30 @@
+body,
+html {
+  margin: 0;
+  height: 100%;
+}
+.top-banner {
+  background-image: url(images/donation5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85%;
+}
+.banner-part {
+  text-align: center;
+  width: 55%;
+  padding: 50px 250px;
+}
+.banner-part h1 {
+  color: #fff;
+  font-size: 50px;
+}
+.banner-part p {
+  color: #f4f4f4;
+}
+.donate-button {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: orangered;
+  color: #fff;
+  border-radius: 5px;
+}
