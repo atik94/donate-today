@@ -114,3 +114,30 @@ section {
   background-color: #fff9e3;
 }
 /*End donate plan section*/
+.footer-top {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+#footer-top-one {
+  background-color: #fff9e3;
+  padding: 50px 0px;
+  margin-top: 40px;
+}
+#footer-top-email {
+  padding: 8px;
+  background-color: #ddd;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+#submit-button {
+  padding: 8px;
+  background-color: tomato;
+  color: #fff;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  width: 90px;
+}
+/*End footer top section*/
