@@ -24,16 +24,20 @@ section {
 .banner-part h1 {
   color: #fff;
   font-size: 50px;
+  font-weight: bold;
 }
 .banner-part p {
-  color: #f4f4f4;
+  color: #fff;
+  font-size: 15px;
 }
 .donate-button {
   text-decoration: none;
   padding: 10px 20px;
-  background-color: orangered;
+  background-color: tomato;
   color: #fff;
   border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
 }
 /*End top banner part*/
 .donate-today-toppart {
@@ -84,6 +88,8 @@ section {
   background-color: transparent;
   padding-bottom: 8px;
   margin-bottom: 30px;
+  font-size: 15px;
+  font-weight: bold;
 }
 /*End donate today section*/
 
@@ -136,6 +142,7 @@ section {
   border: none;
   outline: none;
   border-radius: 3px;
+  font-size: 15px;
 }
 #submit-button {
   padding: 8px;
@@ -145,6 +152,8 @@ section {
   outline: none;
   border: none;
   width: 90px;
+  font-size: 14px;
+  font-weight: bold;
 }
 /*End footer top section*/
 
